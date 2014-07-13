@@ -1,0 +1,4 @@
+noonoocoin
+==========
+
+noonoocoin cryptocurrency
