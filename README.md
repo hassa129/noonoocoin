@@ -1,4 +1,0 @@
-noonoocoin
-==========
-
-noonoocoin cryptocurrency
